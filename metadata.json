@@ -1,0 +1,6 @@
+{
+  "name": "Inventario de Componentes - Colegio Asunción Escalada",
+  "description": "Sistema de gestión y control de inventario de componentes electrónicos con cálculo de existencias, control de stock mínimo, trazabilidad y reversión de movimientos. Proyecto individual 08 - Lucas Alfredo Lugo Irala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
